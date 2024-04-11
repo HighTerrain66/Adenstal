@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Adenstal (Debug)",
+			"request": "launch",
+			"preLaunchTask": "Adenstal Win64 Debug Build",
+			"program": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Adenstal (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "Adenstal Win64 DebugGame Build",
+			"program": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Adenstal (Development)",
+			"request": "launch",
+			"preLaunchTask": "Adenstal Win64 Development Build",
+			"program": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Adenstal (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "Adenstal Win64 Shipping Build",
+			"program": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Adenstal (Test)",
+			"request": "launch",
+			"preLaunchTask": "Adenstal Win64 Test Build",
+			"program": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "AdenstalEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "AdenstalEditor Win64 Debug Build",
+			"program": "E:\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Adenstal.uproject"
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "AdenstalEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "AdenstalEditor Win64 DebugGame Build",
+			"program": "E:\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Adenstal.uproject"
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "AdenstalEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "AdenstalEditor Win64 Development Build",
+			"program": "E:\\UE_4.26\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Adenstal.uproject"
+			],
+			"cwd": "E:\\UE_4.26",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE_4.26\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "E:\\UE_4.26\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\Adenstal.uproject",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "E:\\UE_4.26"
+		}
+	]
+}

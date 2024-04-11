@@ -1,0 +1,217 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Adenstal.Build.cs",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Adenstal.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Adenstal.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\AdenstalGameModeBase.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\AdenstalGameModeBase.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\AIManager.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\AIManager.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\AlertTrigger1.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\AlertTrigger1.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTService_PlayerLocation.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTService_PlayerLocation.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTService_PlayerLocationIfSeen.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTService_PlayerLocationIfSeen.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTTask_ClearBlackboardValue.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTTask_ClearBlackboardValue.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTTask_Shoot.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\BTTask_Shoot.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ConsoleTrigger1.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ConsoleTrigger1.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ConsoleTriggerFirst.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ConsoleTriggerFirst.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ConsoleTriggerReac1.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ConsoleTriggerReac1.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Gun.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Gun.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\KillEmAllGameMode.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\KillEmAllGameMode.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\MyPawn.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\MyPawn.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\NoiseMaker.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\NoiseMaker.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Projectile.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\Projectile.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterAIController.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterAIController.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterCharacter.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterCharacter.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterCharacterAIComponent.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterCharacterAIComponent.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterPlayerController.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\ShooterPlayerController.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\SoundStimuli.cpp",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Ollie\\\\Documents\\\\Unreal Projects\\\\Adenstal\\\\Source\\\\Adenstal\\\\SoundStimuli.h",
+		"command": "cl.exe @\"C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal\\Adenstal.182.rsp\"",
+		"directory": "E:\\UE_4.26\\Engine\\Source"
+	}
+]

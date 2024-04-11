@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "AdenstalEditor Editor Win64 Development (Adenstal)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Adenstal.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Ollie\\Documents\\Unreal Projects\\Adenstal\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
